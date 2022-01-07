@@ -4,7 +4,7 @@
     define("dir",realpath('.'));
     define("controlPath",dir."/app/controller/");
     define("viewPath",dir."/app/view/");
-    define("urlSite","http://".$_SERVER['SERVER_NAME'].'/');
+    define("urlSite","http://".$_SERVER['SERVER_NAME'].'/proje/');
 
 
 ?>
