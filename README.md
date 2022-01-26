@@ -1,2 +1,2 @@
-# JesusTR-Web
+# İSA KÖSEOĞLU -Web
 Web Programing
